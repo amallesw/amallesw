@@ -4,9 +4,9 @@ I am a 2nd year Data Science major at UC San Diego with a specialization in Busi
 
 ### Technologies
 
-Technologies I specialize in as a Data Scientist and Full Stack Developer include:
-Languages: Python (pandas, NumPy, matplotlib), Java, JavaScript, C++, MATLAB, Tableau, Excel, Git, R
-Frontend: React.js, Tailwind CSS, HTML, Redux Toolkit
+Technologies I specialize in as a Data Scientist and Full Stack Developer include:\
+Languages: Python (pandas, NumPy, matplotlib), Java, JavaScript, C++, MATLAB, Tableau, Excel, Git, R\
+Frontend: React.js, Tailwind CSS, HTML, Redux Toolkit\
 Backend: Node.js, Prisma, RTK Query, SQL
 
 
