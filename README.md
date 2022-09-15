@@ -1,17 +1,14 @@
 ### Hi there 👋
 
 I'm a junior Data Science Major at UC San Diego. Feel free to check out projects in my Github portfolio!
-### Technologies
-
-Technologies I specialize in as a Data Scientist and Full Stack Developer include:\
-Languages: Python (pandas, NumPy, matplotlib), Java, JavaScript, C++, MATLAB, Tableau, Excel, Git, R\
-Frontend: React.js, Tailwind CSS, HTML, Redux Toolkit\
-Backend: Node.js, Prisma, RTK Query, SQL
-
 
 
 <!--
 **amallesw/amallesw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technologies I specialize in as a Data Scientist and Full Stack Developer include:\
+Languages: Python (pandas, NumPy, matplotlib), Java, JavaScript, C++, MATLAB, Tableau, Excel, Git, R\
+Frontend: React.js, Tailwind CSS, HTML, Redux Toolkit\
+Backend: Node.js, Prisma, RTK Query, SQL
 
 Here are some ideas to get you started:
 
