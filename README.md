@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am a 2nd year Data Science major at UC San Diego with a specialization in Business Analytics.
-
+I'm a junior Data Science Major at UC San Diego. Feel free to check out projects in my Github portfolio!
 ### Technologies
 
 Technologies I specialize in as a Data Scientist and Full Stack Developer include:\
